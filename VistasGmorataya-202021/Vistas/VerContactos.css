@@ -1,0 +1,21 @@
+
+h1{
+    text-align: center;
+    color: rgb(245, 157, 157);
+    margin-bottom: 100px;
+}
+
+table{
+    text-align:left; 
+    width:100%;
+}
+button{
+        padding: 00.5em 1em;
+        font-size: 110%;
+        border: none;
+        background:rgb(131, 42, 42);
+}
+
+#bot{
+    margin-bottom: 30px;
+}

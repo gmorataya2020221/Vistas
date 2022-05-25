@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    color: red;
+    font-size: 130px;
+  }
+  button{
+    padding: 00.5em 1em;
+    margin-bottom: 20px;
+    font-size: 110%;
+    border: none;
+    background: rgb(13, 160, 197);
+    cursor: pointer;
+    }

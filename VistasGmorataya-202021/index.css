@@ -1,0 +1,44 @@
+body {
+    font-size: 110%;
+  }
+  label{
+    color: white;
+  }
+  a{
+    color:white;
+  }
+  
+  .form {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  }
+  
+  .form input {
+  font-size: 110%;
+  display: block;
+  width: 90%;
+  height: 30px;
+  margin: 00.5em;
+  }
+  
+  #boton{
+  padding: 00.5em 1em;
+  font-size: 110%;
+  border: none;
+  margin-bottom: 40px;
+  background: rgb(2, 100, 153);
+  cursor: pointer;
+  }
+
+  #bot{
+    padding: 00.5em 1em;
+    font-size: 110%;
+    border: none;
+    background: rgb(170, 179, 184);
+    cursor: pointer;
+  }
